@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "カーテンコール",
+  "base_artist": "吐息",
+  "createdAt": "2025-12-26T10:26:48.456513Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カーテンコール",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/01_カーテンコール_yama.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "カーテンコール",
+      "artist": "WEAVER",
+      "has_synced": true,
+      "path": "select/02_カーテンコール_WEAVER.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "カーテンコール",
+      "artist": "太田ひな",
+      "has_synced": false,
+      "path": "select/03_カーテンコール_太田ひな.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "カーテンコール",
+      "artist": "Okui, Masami",
+      "has_synced": false,
+      "path": "select/04_カーテンコール_Okui,_Masami.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "カーテンコール",
+      "artist": "GLAY",
+      "has_synced": true,
+      "path": "select/05_カーテンコール_GLAY.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "カーテンコール",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/06_カーテンコール_優里.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "カーテンコール",
+      "artist": "EGO-WRAPPIN’",
+      "has_synced": true,
+      "path": "select/07_カーテンコール_EGO-WRAPPIN’.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "カーテンコール",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/08_カーテンコール_優里.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "yama『カーテンコール』MV",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/09_yama『カーテンコール』MV_yama.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "カーテンコール",
+      "artist": "GLAY",
+      "has_synced": false,
+      "path": "select/10_カーテンコール_GLAY.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "カーテンコール",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/11_カーテンコール_yama.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "カーテンコール",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/12_カーテンコール_優里.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "優里 - カーテンコール(Curtain Call)《我的英雄學院 第七季》OP片頭曲主題曲【中日歌詞】",
+      "artist": "濁音",
+      "has_synced": true,
+      "path": "select/13_優里_-_カーテンコール(Curtain_Call)《我的英雄學院_第七季》OP片頭曲主題曲【中日歌詞】_濁音.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カーテンコール (feat. CONA)",
+      "artist": "吐息.",
+      "has_synced": false,
+      "path": "select/pl_01_カーテンコール_(feat._CONA)_吐息..txt"
+    }
+  ]
+}
